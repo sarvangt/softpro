@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "_id": "001b2018-153c-4344-a1a7-e425b0057b64",
+      "createdAt": "2026-11-01T14:32:10.010Z",
+      "name": "System Admin",
+      "email": "admin@college.edu",
+      "password": "$2a$10$2KisuQVIiFjIu5hb8zR5/..szcmHfS0mt6LSFeeH71ji6r6sOfGYm",
+      "role": "admin",
+      "department": ""
+    }
+  ],
+  "grievances": [
+    {
+      "_id": "442f9615-3968-44c0-b26f-7d07079db7a6",
+      "createdAt": "2026-11-01T14:33:19.188Z",
+      "ticketId": "GRV-MVXXJU503640",
+      "student": "364ce2ff-a02e-4087-bc5a-cf0575887901",
+      "category": "Academics",
+      "title": "No books there",
+      "description": "Bad college",
+      "attachmentUrl": "",
+      "status": "Pending",
+      "remarks": "",
+      "handledBy": null
+    },
+    {
+      "_id": "885c41cc-ff9f-40bc-bcbe-2d77a7e84a4b",
+      "createdAt": "2026-11-01T14:41:19.901Z",
+      "ticketId": "GRV-MVXXU525284D",
+      "student": "9bd72e46-22a1-4ee9-9dff-73d22bd9e9ea",
+      "category": "Transport",
+      "title": "Balrat Neve avaible",
+      "description": "gf",
+      "attachmentUrl": "",
+      "status": "Pending",
+      "remarks": "",
+      "handledBy": null
+    }
+  ]
+}
